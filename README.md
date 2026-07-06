@@ -32,7 +32,7 @@ bayes-jnr/
 
 ## Installation
 ```bash
-pip install git+https://github.com
+pip install git+https://github.com/Brian-Clough/bayes-jnr
 ```
 
 ## End-to-End Compliance Pipeline
